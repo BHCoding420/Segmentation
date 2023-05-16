@@ -1,0 +1,68 @@
+{
+    "objectsToChange": [{
+            "label": "Vehicle",
+            "color": "#00008e",
+            "instanceSegmentation": 1
+        },
+        {
+            "label": "Bicycle",
+            "color": "#770b20",
+            "instanceSegmentation": 0
+        },
+        {
+            "label": "Object",
+            "color": "#999999",
+            "instanceSegmentation": 0
+        },
+        {
+            "label": "Traffic Light",
+            "color": "#faaa1e",
+            "instanceSegmentation": 0
+        },
+        {
+            "label": "Wall",
+            "color": "#66669c",
+            "instanceSegmentation": 0
+        },
+        {
+            "label": "Pedestrian",
+            "color": "#dc143c",
+            "instanceSegmentation": 1
+        },
+        {
+            "label": "Tree",
+            "color": "#6b8e23",
+            "instanceSegmentation": 0
+        },
+        {
+            "label": "Construction",
+            "color": "#464646",
+            "instanceSegmentation": 1
+        },
+        {
+            "label": "Terrain",
+            "color": "#98fb98",
+            "instanceSegmentation": 0
+        },
+        {
+            "label": "Flat",
+            "color": "#804080",
+            "instanceSegmentation": 0
+        },
+        {
+            "label": "sky",
+            "color": "#4682b4",
+            "instanceSegmentation": 0
+        },
+        {
+            "label": "Zebra",
+            "color": "#292000",
+            "instanceSegmentation": 1
+        },
+        {
+            "label": "Sidewalk",
+            "color": "#f423e8",
+            "instanceSegmentation": 0
+        }
+    ]
+}
